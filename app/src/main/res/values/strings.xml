@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JsNewsApp</string>
+    <string name="no_internet">No internet connection! Check you have not used up all your data allowance or that you are somewhere with weak or no signal. After reconnecting to the internet close the app and reopen it again. Hope you connect quickly and are able to read your news stories soon!</string>
+    <string name="no_news">Some problem seems to have occured and there are no news stories for you to read at this moment. However do not worry as you can come back later to try again. Maybe try exiting the app and reopening it in case that resolves the problem. Hope you will be reading your news stories soon and will be up to date with what is going on in the world!</string>
+    <string name="section_sample">UK News</string>
+    <string name="title_sample">Lots going on all the time all over the world in all different locations</string>
+    <string name="author_sample">John Doe</string>
+    <string name="date_sample">1901-01-01</string>
+</resources>
